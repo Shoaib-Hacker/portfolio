@@ -93,24 +93,28 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Frontend project',
+        title: 'Sign-up page',
         description: 'Web Design',
         bgImage: '/work-1.png',
+        link:'https://shoaib-hacker.github.io/Sign-Up-Page/'
     },
     {
-        title: 'Geo based app',
-        description: 'Mobile App',
+        title: 'Product-Page',
+        description: 'Product page developed using -HTML, CSS',
         bgImage: '/work-2.png',
+        link:'https://shoaib-hacker.github.io/Product-page/'
     },
     {
-        title: 'Photography site',
-        description: 'Web Design',
+        title: 'Excursion',
+        description: 'Frond-end project',
         bgImage: '/work-3.png',
+        link:'https://shoaib-hacker.github.io/excursion/'
     },
     {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
+        title: 'Stationary Management System',
+        description: 'Java project using - spring boot, Java, Thymeleaf',
         bgImage: '/work-4.png',
+        link:'https://github.com/Shoaib-Hacker/Spring-Boot'
     },
 ]
 
